@@ -81,8 +81,7 @@ export default async function handler(
           schemaVersion: 1,
           label: 'Now Playing',
           message: 'Not Listening',
-          color: 'inactive',
-          logo: 'spotify',
+          color: 'inactive'
         };
 
         res.setHeader(
@@ -98,12 +97,7 @@ export default async function handler(
         message: `${response.data.item.name} by ${response.data.item.album.artists
           .map((artist) => artist.name)
           .join(', ')}`,
-        color: 'brightgreen',
-        logo: 'spotify',
-        logoColor: 'white',
-        logoWidth: 20, // Adjust the logo size as needed
-        style: 'flat-square',
-        albumImageUrl: response.data.item.album.images[0].url,
+        color: 'brightgreen'
       };
 
       res.setHeader(
