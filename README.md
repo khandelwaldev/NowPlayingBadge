@@ -1,6 +1,6 @@
 # NowPlayingBadge
 
-![NowPlayingBadge](https://img.shields.io/endpoint?url=https://nowplayingbadge.vercel.app/api/spotify)
+<img src="https://img.shields.io/endpoint?url=https://nowplayingbadge.vercel.app/api/spotify" />
 
 ## Overview
 
