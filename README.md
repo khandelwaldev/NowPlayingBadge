@@ -37,6 +37,13 @@ Follow these steps to set up and run the project:
    ```bash
    npm run dev
    ```
+   
+# Deploy Your Own
+You can deploy your own hosted version of `nowplayingbadge`. Just click the link below to deploy a ready-to-go version to Vercel.
+
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/khandelwaldev/nowplayingbadge&env=SPOTIFY_CLIENT_ID,SPOTIFY_CLIENT_SECRET,SPOTIFY_REFRESH_TOKEN&project-name=nowplayingbadge&repo-name=nowplayingbadge">
+<img src="https://camo.githubusercontent.com/0d115430c1db17132964386282927e5e313543c7d868fc06bc9a7c65d7ec974e/68747470733a2f2f76657263656c2e636f6d2f627574746f6e"
+</a>
 
 # NowPlayingBadge Badge
 Include the generated SVG badge in your project README to display your current Spotify playing status. Use the following markdown code:
