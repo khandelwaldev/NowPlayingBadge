@@ -1,6 +1,6 @@
 # NowPlayingBadge
 
-![SpotifyShield](https://img.shields.io/endpoint?url=https://spotify-shield.vercel.app/api/spotify)
+![NowPlayingBadge](https://img.shields.io/endpoint?url=https://nowplayingbadge.vercel.app/api/spotify)
 
 ## Overview
 
@@ -41,6 +41,6 @@ Follow these steps to set up and run the project:
 # NowPlayingBadge Badge
 Include the generated SVG badge in your project README to display your current Spotify playing status. Use the following markdown code:
 ```
-![SpotifyShield](https://img.shields.io/endpoint?url={YOUR_SITE_URL}/api/spotify)
+![NowPlayingBadge](https://img.shields.io/endpoint?url={YOUR_SITE_URL}/api/spotify)
 
 ```
