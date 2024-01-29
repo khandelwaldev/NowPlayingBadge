@@ -1,10 +1,10 @@
-# Spotify Shield SVG
+# NowPlayingBadge
 
 ![SpotifyShield](https://img.shields.io/endpoint?url=https://spotify-shield.vercel.app/api/spotify)
 
 ## Overview
 
-Spotify Shield SVG is a project that generates a dynamic SVG badge displaying your current Spotify playing status. The badge provides information about the currently playing song on your Spotify account.
+NowPlayingBadge is a project that generates a dynamic SVG badge displaying your current Spotify playing status. The badge provides information about the currently playing song on your Spotify account.
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ Follow these steps to set up and run the project:
    npm run dev
    ```
 
-# Spotify Shield SVG Badge
+# NowPlayingBadge Badge
 Include the generated SVG badge in your project README to display your current Spotify playing status. Use the following markdown code:
 ```
 ![SpotifyShield](https://img.shields.io/endpoint?url={YOUR_SITE_URL}/api/spotify)
