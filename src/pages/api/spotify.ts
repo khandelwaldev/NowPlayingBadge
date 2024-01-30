@@ -80,7 +80,7 @@ export default async function handler(
         const badgeData = {
           schemaVersion: 1,
           label: 'Now Playing',
-          message: 'Not Listening',
+          message: `Currently, I'm offline`,
           color: 'inactive'
         };
 
